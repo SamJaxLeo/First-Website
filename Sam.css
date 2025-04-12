@@ -1,0 +1,42 @@
+h1{
+    text-shadow: 3px 3px 10px red, -3px -3px 10px blue;
+    color: hsl(300, 56%, 11%);
+    font-style: italic;
+    font-size: 3em;
+}
+#p1{
+    font-size: 1.5em;
+    color:aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#img1{ 
+    margin-right: 10px;
+    float: left;
+    
+}
+#img2{
+    float: right;
+    margin-right: 100px;
+}
+#img3{
+    float: right;
+    margin-right: 10px
+}
+body{
+    background-image: url(Images/eyecatching-starry-night-sky-banner-universe-experience_1017-50621.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    color:aqua;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    color:aqua;
+}
